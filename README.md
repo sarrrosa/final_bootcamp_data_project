@@ -5,7 +5,7 @@
 ## Motivation :blush:
 *This is my final project wuthin the Data Analytics Bootcamp in Ironhack Madrid (2020 Part Time version). 
 
-## Overview :gem:
+## Overview :computer:
 Amazon is the most important eretailer in Spain, however, when it comes to analysing product data in Amazon, the eretailer's analysis tool called **Amazon Vendor Central** is not that simple nor that intuitive. Indeed you can use it to keep track of sales, logistic monitorisation or search trends analysis, however, when it comes to product and sentiment analysis, the data gap is still taking place. **Scrapey** has been created in order to be able to make it easier to analyse Amazon's product data. With Scrapey you will be able to get all the insightful data that you need in order to make business decisions within Amazon, as well as get all product reviews and sentiment analysis. 
 
 ---
