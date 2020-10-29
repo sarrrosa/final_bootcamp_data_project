@@ -11,7 +11,14 @@ Amazon is the most important eretailer in Spain, however, when it comes to analy
 ---
 
 ## Data sources :scroll:
- - Amazon product list
+ - Amazon product list containing the following products:
+   - 128 smartphones
+   - 115 TVs
+   - 81 tablets
+   - 62 screens
+   - 42 appliances
+   - 20 earphones
+   - 15 soundbars
 
 ## Requirements :arrow_forward:
 
@@ -30,11 +37,16 @@ You will need to install and import or have already installed and imported the f
 ## Folder structure :open_file_folder:
 ```
 └── project   
-    └── data
-        ├── diamonds_train.csv
-        ├── diamonds_predict.csv
+    └── amazon_urls
+        ├── amazon_appliances.csv
+        ├── amazon_earphones.csv
+        ├── amazon_screen_storage.csv
+        ├── amazon_smartphones.csv
+        ├── amazon_soundbars.csv
+        ├── amazon_tablets.csv
+        ├── amazon_tvs.csv
     ├── notebook
-        ├── machine_learning_model_diamond.ipynb
+        ├── scraper_ratings.ipynb
     ├── .gitignore
     ├── README.md
     ├── requirements.txt
