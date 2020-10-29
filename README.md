@@ -1,5 +1,5 @@
-# Prediction diamond's price
-![Image](https://user-images.githubusercontent.com/63467553/93368573-74dd0200-f84e-11ea-85f2-34e28a98e3b6.png)
+# Scrapey
+![Image](https://user-images.githubusercontent.com/63467553/97612809-2bb8ca00-1a18-11eb-9eb3-65741bc780fb.png)
 
 
 ## Motivation :blush:
