@@ -47,6 +47,7 @@ You will need to install and import or have already installed and imported the f
         ├── amazon_tvs.csv
     ├── notebook
         ├── scraper_ratings.ipynb
+    ├── about_scrapey.pdf
     ├── .gitignore
     ├── README.md
     ├── requirements.txt
