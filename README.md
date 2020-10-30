@@ -45,6 +45,22 @@ You will need to install and import or have already installed and imported the f
         ├── amazon_soundbars.csv
         ├── amazon_tablets.csv
         ├── amazon_tvs.csv
+     └── scrapey_data
+        ├── xxx.csv
+        ├── scrapey_earphones.csv
+        ├── xxx.csv
+        ├── xxx.csv
+        ├── scrapey_soundbars.csv
+        ├── xxx.csv
+        ├── xxx.csv 
+     └── final datasets
+        ├── xxx.csv
+        ├── sentiment_scoring_earphones.csv
+        ├── xxx.csv
+        ├── xxx.csv
+        ├── sentiment_scoring_soundbars.csv
+        ├── xxx.csv
+        ├── xxx.csv  
     ├── notebook
         ├── scraper_ratings.ipynb
     ├── about_scrapey.pdf
@@ -54,9 +70,11 @@ You will need to install and import or have already installed and imported the f
 ```
 ## Main blockers :tada:
     - Captcha blocker - Make sure to keep time.sleep as long as possible
+    - Proxy signup
+    - Rotate requests per user_agent
 
 ## Output :pushpin:
-`.csv` file with all scraped data and Tableau public dashboard in order to visualise and keep track of data evolution. 
+`.csv` files with all scraped data and sentiment analysis and a Tableau dashboard in order to visualise analyse the data scraped.  
 
 ## Disclaimer :electric_plug:
 Code not to be forked or cloned without agreement 
