@@ -15,6 +15,7 @@ Amazon is the most important eretailer in Spain, however, when it comes to analy
    - 128 smartphones
    - 115 TVs
    - 81 tablets
+   - 72 smartwatches
    - 62 screens
    - 42 appliances
    - 20 earphones
